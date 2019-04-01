@@ -1,0 +1,47 @@
+C:\Users\timot\AppData\Local\Temporary Projects\wise4051irda\bin\Debug\wise4051irda.exe
+C:\Users\timot\AppData\Local\Temporary Projects\wise4051irda\bin\Debug\wise4051irda.pdb
+C:\Users\timot\AppData\Local\Temporary Projects\wise4051irda\obj\Debug\wise4051irda.csprojAssemblyReference.cache
+C:\Users\timot\AppData\Local\Temporary Projects\wise4051irda\obj\Debug\wise4051irda.Form1.resources
+C:\Users\timot\AppData\Local\Temporary Projects\wise4051irda\obj\Debug\wise4051irda.Properties.Resources.resources
+C:\Users\timot\AppData\Local\Temporary Projects\wise4051irda\obj\Debug\wise4051irda.csproj.GenerateResource.cache
+C:\Users\timot\AppData\Local\Temporary Projects\wise4051irda\obj\Debug\wise4051irda.csproj.CoreCompileInputs.cache
+C:\Users\timot\AppData\Local\Temporary Projects\wise4051irda\obj\Debug\wise4051irda.exe
+C:\Users\timot\AppData\Local\Temporary Projects\wise4051irda\obj\Debug\wise4051irda.pdb
+C:\Users\timot\OneDrive\模具管理系統\wise4051irda\wise4051irda\obj\Debug\wise4051irda.Form1.resources
+C:\Users\timot\OneDrive\模具管理系統\wise4051irda\wise4051irda\obj\Debug\wise4051irda.Properties.Resources.resources
+C:\Users\timot\OneDrive\模具管理系統\wise4051irda\wise4051irda\obj\Debug\wise4051irda.csproj.GenerateResource.cache
+C:\Users\timot\OneDrive\模具管理系統\wise4051irda\wise4051irda\obj\Debug\wise4051irda.csproj.CoreCompileInputs.cache
+C:\Users\timot\OneDrive\模具管理系統\wise4051irda\wise4051irda\obj\Debug\wise4051irda.exe
+C:\Users\timot\OneDrive\模具管理系統\wise4051irda\wise4051irda\obj\Debug\wise4051irda.pdb
+C:\Users\timot\OneDrive\模具管理系統\wise4051irda\wise4051irda\bin\Debug\wise4051irda.exe.config
+C:\Users\timot\OneDrive\模具管理系統\wise4051irda\wise4051irda\bin\Debug\wise4051irda.exe
+C:\Users\timot\OneDrive\模具管理系統\wise4051irda\wise4051irda\bin\Debug\wise4051irda.pdb
+C:\Users\timot\OneDrive\模具管理系統\wise4051irda\wise4051irda\obj\Debug\wise4051irda.csprojAssemblyReference.cache
+C:\Users\timot\OneDrive\模具管理系統\wise4051irda\wise4051irda\obj\Debug\wise4051irda.csproj.CopyComplete
+C:\Users\timot\OneDrive\模具管理系統\wise4051irda\wise4051irda\obj\Debug\wise4051irda.Form2.resources
+C:\Users\timot\OneDrive\龍鋒\wise4051irda\wise4051irda\bin\Debug\wise4051irda.exe.config
+C:\Users\timot\OneDrive\龍鋒\wise4051irda\wise4051irda\bin\Debug\wise4051irda.exe
+C:\Users\timot\OneDrive\龍鋒\wise4051irda\wise4051irda\bin\Debug\wise4051irda.pdb
+C:\Users\timot\OneDrive\龍鋒\wise4051irda\wise4051irda\obj\Debug\wise4051irda.csprojAssemblyReference.cache
+C:\Users\timot\OneDrive\龍鋒\wise4051irda\wise4051irda\obj\Debug\wise4051irda.Form1.resources
+C:\Users\timot\OneDrive\龍鋒\wise4051irda\wise4051irda\obj\Debug\wise4051irda.Form2.resources
+C:\Users\timot\OneDrive\龍鋒\wise4051irda\wise4051irda\obj\Debug\wise4051irda.Properties.Resources.resources
+C:\Users\timot\OneDrive\龍鋒\wise4051irda\wise4051irda\obj\Debug\wise4051irda.csproj.GenerateResource.cache
+C:\Users\timot\OneDrive\龍鋒\wise4051irda\wise4051irda\obj\Debug\wise4051irda.csproj.CoreCompileInputs.cache
+C:\Users\timot\OneDrive\龍鋒\wise4051irda\wise4051irda\obj\Debug\wise4051irda.csproj.CopyComplete
+C:\Users\timot\OneDrive\龍鋒\wise4051irda\wise4051irda\obj\Debug\wise4051irda.exe
+C:\Users\timot\OneDrive\龍鋒\wise4051irda\wise4051irda\obj\Debug\wise4051irda.pdb
+C:\Users\timot\OneDrive\龍鋒\wise4051irda\wise4051irda\bin\Debug\MySql.Data.DLL
+C:\Users\timot\OneDrive\亦良\wise4051\wise4051irda\bin\Debug\wise4051irda.exe.config
+C:\Users\timot\OneDrive\亦良\wise4051\wise4051irda\bin\Debug\wise4051irda.exe
+C:\Users\timot\OneDrive\亦良\wise4051\wise4051irda\bin\Debug\wise4051irda.pdb
+C:\Users\timot\OneDrive\亦良\wise4051\wise4051irda\bin\Debug\MySql.Data.DLL
+C:\Users\timot\OneDrive\亦良\wise4051\wise4051irda\obj\Debug\wise4051irda.Form1.resources
+C:\Users\timot\OneDrive\亦良\wise4051\wise4051irda\obj\Debug\wise4051irda.Form2.resources
+C:\Users\timot\OneDrive\亦良\wise4051\wise4051irda\obj\Debug\wise4051irda.Properties.Resources.resources
+C:\Users\timot\OneDrive\亦良\wise4051\wise4051irda\obj\Debug\wise4051irda.csproj.GenerateResource.cache
+C:\Users\timot\OneDrive\亦良\wise4051\wise4051irda\obj\Debug\wise4051irda.csproj.CoreCompileInputs.cache
+C:\Users\timot\OneDrive\亦良\wise4051\wise4051irda\obj\Debug\wise4051irda.csproj.CopyComplete
+C:\Users\timot\OneDrive\亦良\wise4051\wise4051irda\obj\Debug\wise4051irda.exe
+C:\Users\timot\OneDrive\亦良\wise4051\wise4051irda\obj\Debug\wise4051irda.pdb
+C:\Users\timot\OneDrive\亦良\wise4051\wise4051irda\obj\Debug\wise4051irda.csprojAssemblyReference.cache
